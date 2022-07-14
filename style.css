@@ -1,0 +1,25 @@
+section{
+	align: center;
+	margin: 0 auto;
+}
+
+body{
+	
+}
+nav{
+	color: #85859C !important;
+}
+#etsy{
+	border-radius: 25px !important;
+}
+button{
+	padding: 20px;
+}
+font{
+	color: grey;
+}
+.roundDiv{
+	width: 10%;
+	height: 2.5%;
+	background-color: #85859C;
+}
